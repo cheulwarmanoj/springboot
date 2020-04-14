@@ -1,6 +1,6 @@
 Order Management System using
 React.JS, Spring Boot and H2 DB webapp!
-This is excellent example of React js + spring boot and h2 DB ( removed dependency of extenal DB)
+This is excellent example of React js + spring boot and 2 DB ( removed dependency of extenal DB)
 
 The sole MOTO of this application
 The purpose of the app was to learn as to :
